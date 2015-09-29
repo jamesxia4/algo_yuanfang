@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1443532612 source:d:\workspace\ms_prob3_20150929\main.cpp
+	<iostream>
+	<map>
+	<algorithm>
+	<cstdlib>
+
