@@ -3,6 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/algo_yuanfang.iml" filepath="$PROJECT_DIR$/algo_yuanfang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode100/leetcode100.iml" filepath="$PROJECT_DIR$/leetcode/leetcode100/leetcode100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode104/leetcode104.iml" filepath="$PROJECT_DIR$/leetcode/leetcode104/leetcode104.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode136/leetcode136.iml" filepath="$PROJECT_DIR$/leetcode/leetcode136/leetcode136.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode204/leetcode204.iml" filepath="$PROJECT_DIR$/leetcode/leetcode204/leetcode204.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode226/leetcode226.iml" filepath="$PROJECT_DIR$/leetcode/leetcode226/leetcode226.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode237/leetcode237.iml" filepath="$PROJECT_DIR$/leetcode/leetcode237/leetcode237.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode258/leetcode258.iml" filepath="$PROJECT_DIR$/leetcode/leetcode258/leetcode258.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode283/leetcode283.iml" filepath="$PROJECT_DIR$/leetcode/leetcode283/leetcode283.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pat-b/pat1009/pat1009.iml" filepath="$PROJECT_DIR$/pat-b/pat1009/pat1009.iml" />
     </modules>
   </component>
 </project>
